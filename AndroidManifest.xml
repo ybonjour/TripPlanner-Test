@@ -9,4 +9,6 @@
     </application>
 
     <instrumentation android:targetPackage="ch.tripplanner" android:name="android.test.InstrumentationTestRunner" />
+
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>
 </manifest> 
